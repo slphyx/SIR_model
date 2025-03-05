@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[    107138,       2527]
-NotebookOptionsPosition[     97848,       2358]
-NotebookOutlinePosition[    100137,       2409]
-CellTagsIndexPosition[    100058,       2404]
+NotebookDataLength[    107207,       2530]
+NotebookOptionsPosition[     97916,       2361]
+NotebookOutlinePosition[    100205,       2412]
+CellTagsIndexPosition[    100126,       2407]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -2345,9 +2345,12 @@ Cell["Code", "Item",
   3.950135119572937*^9}},ExpressionUUID->"35a64363-3f6a-4a46-9be0-\
 a148c8fcf506"],
 
-Cell["The code of the examples can be downloaded from ", "Text",
- CellChangeTimes->{{3.950146077306593*^9, 
-  3.9501461046075745`*^9}},ExpressionUUID->"27c471fe-913b-8a4d-b13c-\
+Cell["\<\
+The code of the examples can be downloaded from \
+https://github.com/slphyx/SIR_model\
+\>", "Text",
+ CellChangeTimes->{{3.950146077306593*^9, 3.9501461046075745`*^9}, 
+   3.950146475899149*^9},ExpressionUUID->"27c471fe-913b-8a4d-b13c-\
 6579b4c8c048"]
 }, Open  ]]
 }, Open  ]],
@@ -2397,13 +2400,13 @@ CellTagsIndex->{
    CellTags->"SlideShowHeader"],
   Cell[96051, 2302, 122, 2, 50, "SlideShowNavigationBar",ExpressionUUID->"b9b3882f-e4b1-47bf-b75d-ae3241466e3b",
    CellTags->"SlideShowHeader"],
-  Cell[97722, 2354, 122, 2, 50, "SlideShowNavigationBar",ExpressionUUID->"bb9d24fd-f56c-8145-95a9-7b912b0c98ca",
+  Cell[97790, 2357, 122, 2, 50, "SlideShowNavigationBar",ExpressionUUID->"bb9d24fd-f56c-8145-95a9-7b912b0c98ca",
    CellTags->"SlideShowHeader"]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"SlideShowHeader", 99022, 2386}
+ {"SlideShowHeader", 99090, 2389}
  }
 *)
 (*NotebookFileOutline
@@ -2524,10 +2527,10 @@ Cell[96906, 2328, 190, 5, 62, "Subitem",ExpressionUUID->"20916bfd-418b-e94d-aa1e
 }, Open  ]],
 Cell[97111, 2336, 189, 3, 80, "Item",ExpressionUUID->"92e66acb-3063-d246-9c60-7c4e51893990"],
 Cell[97303, 2341, 197, 4, 80, "Item",ExpressionUUID->"35a64363-3f6a-4a46-9be0-a148c8fcf506"],
-Cell[97503, 2347, 192, 3, 68, "Text",ExpressionUUID->"27c471fe-913b-8a4d-b13c-6579b4c8c048"]
+Cell[97503, 2347, 260, 6, 121, "Text",ExpressionUUID->"27c471fe-913b-8a4d-b13c-6579b4c8c048"]
 }, Open  ]]
 }, Open  ]],
-Cell[97722, 2354, 122, 2, 50, "SlideShowNavigationBar",ExpressionUUID->"bb9d24fd-f56c-8145-95a9-7b912b0c98ca",
+Cell[97790, 2357, 122, 2, 50, "SlideShowNavigationBar",ExpressionUUID->"bb9d24fd-f56c-8145-95a9-7b912b0c98ca",
  CellTags->"SlideShowHeader"]
 }
 ]
